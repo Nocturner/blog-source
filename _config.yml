@@ -7,7 +7,7 @@ title: Nocturner‘s blog #网站标题
 subtitle: #网站副标题
 description: 业精于勤荒于嬉 #网站描述
 author: Nocturner #网站归属人的名字
-language: #网站使用的语言
+language: zh-Hans #网站使用的语言
 timezone: #网站时区
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page #分页目录
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape #当前主题名称。值为false时禁用主题
+theme: next #当前主题名称。值为false时禁用主题
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
