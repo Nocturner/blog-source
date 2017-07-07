@@ -4,8 +4,8 @@
 
 # Site
 title: Nocturner #网站标题
-subtitle: 业精于勤荒于 #网站副标题
-description: 闲暇时间弄的网站，没事的时候会记录一些东西 #网站描述
+subtitle: 业精于勤荒于嬉，行成于思，毁于随 #网站副标题
+description: 好记性不如烂笔头，随时写点感思，也算不辜负自己的年华 #网站描述
 author: Nocturner #网站归属人的名字
 language: zh-CN #网站使用的语言
 timezone: #网站时区
@@ -41,7 +41,7 @@ highlight: #代码块的设置
   enable: true
   line_number: true
   auto_detect: true
-  tab_replace:
+  tab_replace: true
 
 # Category & Tag
 default_category: uncategorized #默认分类
