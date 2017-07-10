@@ -51,7 +51,8 @@ tag_map: #标签别名
 sitemap:
   path: sitemap.xml
   #path 表示 Sitemap 的路径. 默认为 sitemap.xml.
-baidusitemap:
+
+baidusitemap: #百度的搜索索引
   path: baidusitemap.xml
 
 # Date / Time format
